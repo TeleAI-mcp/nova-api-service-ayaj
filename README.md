@@ -1,2 +1,3 @@
-# nova-api-service-ayaj
-A REST API service for modern development workflows
+# Nova Api Service Ayaj
+
+A REST API service for modern development workflows.
